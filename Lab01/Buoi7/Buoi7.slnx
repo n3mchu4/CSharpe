@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Buoi10/Buoi10.csproj" />
+  <Project Path="../Buoi11/Buoi11.csproj" />
+  <Project Path="../Buoi12/Buoi12.csproj" Id="43ea88b9-3c2b-48bb-a99b-3a5fbe8e7477" />
+  <Project Path="../Buoi8/Buoi8.csproj" />
+  <Project Path="../Buoi9/Buoi9.csproj" />
+  <Project Path="Buoi7.csproj" />
+</Solution>
